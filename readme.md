@@ -1,0 +1,1 @@
+Testing Binance API with node.

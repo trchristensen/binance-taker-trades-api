@@ -1,0 +1,32 @@
+{
+  "name": "binance-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node worker.js"
+  },
+  "engines": {
+    "node": "13.8.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-api-node": "^0.9.17",
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "ioredis": "^4.16.0",
+    "mongoose": "^5.9.4",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7",
+    "redis": "^3.0.2",
+    "redis-json": "^3.2.0",
+    "stats-lite": "^2.2.0"
+  }
+}
