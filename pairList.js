@@ -109,6 +109,8 @@ module.exports = {
     "XTZUSDT",
     "ZECUSDT",
     "ZILUSDT",
-    "ZRXUSDT"
+    "ZRXUSDT",
+    "DOTUSDT",
+    "YFIUSDT"
   ]
 };
