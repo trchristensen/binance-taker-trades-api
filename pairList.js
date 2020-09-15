@@ -111,6 +111,7 @@ module.exports = {
     "ZILUSDT",
     "ZRXUSDT",
     "DOTUSDT",
-    "YFIUSDT"
+    "YFIUSDT",
+    "SUSHIUSDT"
   ]
 };
