@@ -6,6 +6,7 @@ module.exports = {
     "ANKRUSDT",
     "ARPAUSDT",
     "ATOMUSDT",
+    "AVAXUSDT",
     "BANDUSDT",
     "BATUSDT",
     "BCHUSDT",
